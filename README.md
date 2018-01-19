@@ -13,7 +13,12 @@ Bestanden in de repo bewerken.
 
     Bestanden bewerken
     Als je nieuwe bestanden toevoegd gebruik:
-    
+
     git add "<filename>"
     git commit -m "<message or description>" -- <pathfile ex.: path/to/my/file.txt>
     git push --set-upstream origin master
+
+    Navigeren
+    use "tab"-key to select folders or files
+    cd path/to/file.txt (to go to files or folders)
+    cd .. (to get out of a folder)
