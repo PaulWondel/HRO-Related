@@ -1,19 +1,19 @@
 # HRO-Related
 My own personal git repository for school
 
-initialisatie
+Initialisatie
 
     git init
 
-    git remote add origin 
+    git remote add origin https://github.com/PaulWondel/HRO-Related.git
 
-bestanden in de repo bewerken.
+Bestanden in de repo bewerken.
 
     git pull origin master
-    1.2 Om te kijken of de bestanden er in staan gebruik ls
+    Om te kijken of de bestanden er in staan gebruik command "ls"
 
     Bestanden bewerken
-    2.2 Als je nieuwe bestanden toevoegd gebruik git add "<filename>"
+    Als je nieuwe bestanden toevoegd gebruik git add "<filename>"
 
     git commit -m "<message>" Zet in message wat je hebt toegevoegd en waarvoor
 
